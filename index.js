@@ -1,3 +1,4 @@
+  GNU nano 7.2                                               index.js
 const http = require('http');
 
 const hostname = '127.0.0.1';
@@ -26,14 +27,3 @@ Push the changes to GitHub:
 
 bash
 
-    git push
-
-Part 5: Run the Application Locally
-
-To test the application, you can run it locally:
-
-bash
-
-node index.js
-
-Visit http://127.0.0.1:3000 in your browser to see the "Hello, World!" message.
